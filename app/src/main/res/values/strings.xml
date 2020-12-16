@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">AndroidTeste</string>
+    <string name="email_invalid">Votre Email est invalide</string>
+    <string name="password_invalid">Remplir le Champ SVP</string>
+    <string name="name_invalid">Remplir le Champ SVP</string>
+    <string name="bienvenue_text1">Êtes-vous un personne curieuse ?</string>
+    <string name="bienvenue_text2"> Voulez-vous savoir tout ce qui est nouveau concernant les Start Up?</string>
+    <string name="bienvenue_text3">Vous êtes au bon endroit, vous êtes les bienvenus dans notre Famille</string>
+    <string name="ahmini_title">LA START-UP TUNISIENNE AHMINI DÉDIÉE AUX FEMMES RURALES, INSPIRE LAFRIQUE</string>
+    <string name="ahmini_description">La start-up Ahmini est désormais un franc succès dans le domaine de lintégration des femmes rurales au système de sécurité sociale. Cette start-up gère la plateforme digitale du même nom, fondée par le tunisien, Meher Khélifi.
+
+Aujourdhui, 11 pays dAfrique et de la région MENA ont manifesté leur intérêt à calquer le modèle « Ahmini ». Cest ce qua déclaré à lagence TAP, le fondateur de la start-up, Meher Khélifi. La jeune entreprise a reçu plus d’une distinction. Elle bénéficie, désormais, du soutien de la Banque Mondiale.
+
+En 2019, elle a remporté un prix au salon Viva-tech. Cet événement s’est déroulé à Paris, du 16 au 18 mai. Ont participé a cet événement 222 start-up de 21 pays du continent africain.
+
+« Nous envisageons dexporter notre expérience en dehors de la Tunisie. Plusieurs pays ont déjà manifesté leur intérêt à dupliquer notre modèle ». Affirme le jeune entrepreneur tunisien.
+
+Cette start-up emploie, aujourd’hui plus de 20 personnes et 300 autre </string>
+
+
+    <string name="ins_title">Smart Capital lance le programme international Ins et Outs of Ecosystem Building</string>
+    <string name="ins_description">Smart Capital,lopérateur de linitiative nationale Startup Tunisia, lance en partenariat
+avec le projet Innovi EU4Innovation, nancé par lUnion européenne et mis en œuvre
+par Expertise France, le programme Ins and Outs of Ecosystem Building, un
+programme de renforcement de capacités de lécosystème des Startups qui est une
+composante de linitiative nationale Startup Tunisia visant à développer et connecter
+lecosysteme local.Le coup denvoi de ce programme, 100% en ligne,est prevu dans le cadre de la semaine
+mondiale de lentrepreneuriat et sera mis en place, dans un premier temps, du 16
+novembre au 17 décembre. Visant en particulier les structures daccompagnement des
+startups,Ins et Outs of Ecosystem Buildingest une série de modules de formations
+gratuites dirigees par des experts internationaux de structures leaders telles que
+Seedstars, Swisscontact,The camp, Paris et co, qui traiteront divers sujets en lien avec
+lecosysteme des startups.</string>
+
+    <string name="dabchy_ttile">La Startup tunisienne Dabchy sélectionnée pour le MEA Seed Challenge dOrange Ventures</string>
+    <string name="dabchy_decription">En juin dernier, le MEA Seed Challenge dOrange Ventures lançait son appel à
+candidatures auprès des startups technologiques en amorçage, au Cameroun, en Côte
+dIvoire, en Egypte, en Jordanie, au Maroc, au Sénégal et en Tunisie. Plus de 500
+candidatures reçues ont été examinées avec attention par les équipes dinvestissement en lien avec les équipes Orange locales.
+En effet, 670 mille euros seront investis à lissu dun processus de sélection très compétitif dans les sept startups suivantes :
+*7Keema en Egypte : plateforme de santé de prise de rendez_vous avec des inrmiers et inrmières
+*Chari.ma au Maroc :place de marché pour les commerces de quartier de bien de consommation courante
+*Dabchy en Tunisie :place de marché de vêtements et accessoires de mode de seconde main
+*Moja Ride en Côte dIvoire: solution digitale pour faciliter laccès, la réservation et le paiement des moyens de transports depuis une seule interface
+Waspito au Cameroun : application de-santé qui distribue des services de télémédecine
+</string>
+
+    <string name="ahkili_title">POESAM 2020 : La Startup tunisienne Ahkili remporte le Grand Prix International</string>
+    <string name="ahkili_descriptio">La dixième édition du Prix Orange de lEntrepreneur Social en Afrique et au Moyen-Orient
+(POESAM) a fait la part belle à deux Startups tunisiennes. La cellule découte
+psychologique Ahkili, fondée par Lamia Chouk, a remporté le premier Grand Prix
+international. La plateforme de paiement mobile Ahmini, visant lautonomisation des
+femmes rurales, a décroché le prix féminin international.
+La cérémonie du POESAM, tenue le 09 novembre, sest déroulée en ligne des suites de la
+crise sanitaire en cours au lieu de prendre place en Afrique du Sud.
+La Helpline, Ahkili, met à disposition des professionnels de la santé an de fournir des
+services daide médico-psychologique pour les personnes en détresse. Lassistance
+thérapeutique est effective tous les jours de la semaine à travers le numéro surtaxé
+81 100 300.
+</string>
+
+    <string name="onboard_title">La Startup tunisienne Onboard réussit une levée de fonds de 175 mille dollars</string>
+    <string name="onboard_description">Onboard, startup tunisienne qui transforme lexpérience du support client offerte par les
+industriels, en utilisant des manuels en 3D intelligents, a annoncé avoir levé 175 mille
+dollars auprès de Kepple Africa Ventures, ainsi que dautres entrepreneurs de renom
+incluant Ahmed Hentati et Karim Jouini. Cette opération permettra à Onboard de faire
+évoluer la solution et de faciliter son expansion au niveau des marchés français et
+européen.
+Fondée n 2019 par Safwen Bouali, Cherif Redissi et Amine Troudi, Onboard est une
+plateforme SaaS qui permet aux industriels de créer des expériences de support de
+qualité pour leurs consommateurs. Dites adieu aux manuels en papier déboussolant, aux
+systèmes de support archaïques, aux centres dappel et aux logiciels de création de
+manuels de la vieille école</string>
+
+    <string name="oxahost_title">OXAHOST ou la pépite tunisienne de lhébergement Web</string>
+    <string name="oxahost_description">Depuis lintroduction, en 1983, du Domain Name System (DNS), méthode standard pour
+localiser où les sites Web sont hébergés, lindustrie de lhébergement Web sest
+développée et a dépassé les frontières américaines. Passionné depuis son enfance par
+les nouvelles technologies et le monde des ordinateurs, Tarek Nakbi, aujourdhui âgé de
+27 ans, na pas raté le coche de la modernisation. Il est à la tête de la Startup OXAHOST,
+un hébergeur Web tunisien fonctionnel depuis janvier 2018. La rédaction dilBoursa est
+allée à sa rencontre pour traiter de son parcours mais aussi pour aborder létat de cette
+industrie naissante en Tunisie.
+Après avoir effectué son parcours scolaire à Sousse, Takek Nakbi a suivi un cycle de
+technologie de linformation à lInstitut Supérieur des Études Technologiques (ISET) de
+Radès. A limage des PDG de la Sillicon Valley, Nakbi na pas attendu lobtention dun
+diplôme pour se lancer dans sa première aventure entrepreneuriale. Jai décidé de
+prendre un nouveau virage stratégique en 2018 en fondant OXAHOST , déclare_t_il</string>
+    <string name="invest_title">Lancement de la communauté tunisienne INVESTI sur la plateforme internationale EuroQuity</string>
+    <string name="invest_description">TunsianStartups lance INVESTI en partenariat avec Expertise France dans le cadre du
+projet InnovI  EU4Innovation nancé par lUnion européenne. INVESTI est une
+communauté fédérant les différents acteurs de lécosystème entrepreneurial innovant
+tunisien à travers la plateforme internationale EuroQuity.
+EuroQuity est une plateforme de Matchmaking entre startups, investisseurs et structures
+daccompagnement développé en 2008 par Bpifrance et qui compte aujourdhui un
+réseau puissant de plus de 14000 sociétés, 1.500 investisseurs et 1.900 structures
+daccompagnement.
+La communauté INVESTI sur EuroQuity a pour vision dappuyer la valorisation de
+lécosystème de lentrepreneuriat innovant tunisien, en particulier auprès des
+écosystèmes internationaux. INVESTI sintéresse en particulier aux startups, aux
+investisseurs (Business Angels, réseaux de Business Angels, VCs et banques) ainsi
+quaux structures daccompagnement tunisiennes.
+</string>
+
+</resources>

@@ -1,0 +1,64 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="30dp"
+        app:cardMaxElevation="20dp"
+        >
+
+        <RelativeLayout
+            android:id="@+id/reltive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/image_artcile"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginBottom="8dp"
+                android:elevation="2dp"
+                android:background="@drawable/shadoww"
+                android:scaleType="fitXY"
+
+                />
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:layout_toRightOf="@+id/image_artcile"/>
+            <TextView
+                android:id="@+id/text_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:textSize="15sp"
+                android:visibility="gone"
+                android:layout_toRightOf="@+id/image_artcile"
+                android:layout_below="@+id/text_title"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="View more"
+                android:textSize="15sp"
+                android:layout_toRightOf="@+id/image_artcile"
+                android:layout_below="@+id/text_title"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

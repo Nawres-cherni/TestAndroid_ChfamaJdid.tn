@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_background1"
+    tools:context=".controller.MainActivity">
+
+
+
+
+    <TextView
+        android:id="@+id/nametext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:layout_marginTop="125dp"
+      android:layout_gravity="center"
+        />
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="625dp"
+        android:layout_margin="8dp"
+        app:cardMaxElevation="20dp"
+        >
+
+    <TextView
+       android:layout_marginBottom="250dp"
+        android:id="@+id/bienvenuetext1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bienvenue_text1"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        />
+
+
+        <TextView
+            android:id="@+id/bienvenuetext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="@string/bienvenue_text2"
+            android:textColor="#000"
+            />
+        <TextView
+
+            android:id="@+id/bienvenuetext3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="160dp"
+            android:gravity="center"
+            android:text="@string/bienvenue_text3"
+            />
+
+        <ImageView
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+        android:src="@drawable/women1"
+        />
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:text="Start"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/design_button"
+        />
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
